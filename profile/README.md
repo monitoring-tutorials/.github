@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my newest organization about monitoting and observability. Here you can learn much more around Prometheus, Grafana, DevOps and SRE monitoring best practices. Keep aliegned with me to buid and training on this, sharing the knowledge with the community.
+Welcome to my newest organization about monitoring and observability. Here you can learn much more around Prometheus, Grafana, DevOps and SRE monitoring best practices. Keep aliegned with me to buid and training on this, sharing the knowledge with the community.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
